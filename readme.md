@@ -1,0 +1,1 @@
+This is just a simple vagrantfile to use to get a vanilla debian/contrib-jessie64 box setup
